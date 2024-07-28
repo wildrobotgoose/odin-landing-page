@@ -15,3 +15,8 @@
     color: #EFE7EB;
     font-size: 18px;
 }
+
+button.signup {
+    background-color: #3882F6;
+    color: white;
+}
