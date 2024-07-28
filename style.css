@@ -62,6 +62,10 @@ body {
     height: 200px;
 }
 
+.info {
+    flex-grow: 1;
+}
+
 .quote {
     background-color: #E5E7EB;
     padding: 48px 144px;
