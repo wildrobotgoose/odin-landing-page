@@ -25,6 +25,8 @@ body {
 }
 
 .action {
+    padding: 24px 48px;
+    margin: 48px 96px;
     background-color: #3882F6;
     color: white;
 }
