@@ -16,6 +16,12 @@
     font-size: 18px;
 }
 
+.footer {
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+}
+
 button.signup {
     background-color: #3882F6;
     color: white;
