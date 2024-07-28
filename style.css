@@ -24,6 +24,22 @@ body {
     font-size: 18px;
 }
 
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-source {
+    font-size: 24px;
+    font-weight: 800;
+}
+
 .action {
     padding: 24px 48px;
     margin: 48px 96px;
