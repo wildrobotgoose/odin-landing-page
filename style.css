@@ -27,6 +27,10 @@ body {
     font-size: 18px;
 }
 
+.hero {
+    padding: 48px 96px;
+}
+
 .hero-title {
     font-size: 48px;
     font-weight: 900;
