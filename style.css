@@ -66,6 +66,12 @@ body {
     flex-grow: 1;
 }
 
+.info img {
+    width: 150px;
+    height: 150px;
+    border: #3882F6 solid 2px;
+}
+
 .quote {
     background-color: #E5E7EB;
     padding: 48px 144px;
