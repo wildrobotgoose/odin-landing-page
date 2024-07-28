@@ -71,17 +71,6 @@ body {
     gap: 24px;
 }
 
-.info img {
-    width: 150px;
-    height: 150px;
-    border: #3882F6 solid 2px;
-}
-
-.info-img-block {
-    max-width: 160px;
-    text-align: center;
-}
-
 .info-header {
     font-size: 36px;
     font-weight: 900;
@@ -92,6 +81,17 @@ body {
     display: flex;
     justify-content: center;
     gap: 24px;
+}
+
+.info img {
+    width: 150px;
+    height: 150px;
+    border: #3882F6 solid 2px;
+}
+
+.info-img-block {
+    max-width: 160px;
+    text-align: center;
 }
 
 .quote {
