@@ -24,6 +24,19 @@ body {
     font-size: 18px;
 }
 
+.action {
+    background-color: #3882F6;
+    color: white;
+}
+
+.action-header {
+    font-size: 24px;
+}
+
+.action-body {
+    font-size: 18px;
+}
+
 .footer {
     padding: 24px;
     display: flex;
@@ -33,4 +46,5 @@ body {
 button.signup {
     background-color: #3882F6;
     color: white;
+    font-size: 18px;
 }
