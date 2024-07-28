@@ -47,6 +47,8 @@ body {
     margin: 48px 96px;
     background-color: #3882F6;
     color: white;
+    display: flex;
+    justify-content: space-between;
 }
 
 .action-header {
