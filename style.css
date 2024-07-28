@@ -44,6 +44,12 @@ body {
 
 .hero {
     padding: 48px 96px;
+    display: flex;
+    gap: 36px;
+}
+
+.hero-text {
+    flex-grow: 1;
 }
 
 .hero-title {
