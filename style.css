@@ -1,4 +1,4 @@
-.header {
+.header, .footer {
     background-color: #1F2937;
 }
 
@@ -9,6 +9,9 @@
 
 .header-link {
     text-decoration: none;
+}
+
+.header-link, .footer-copyright {
     color: #EFE7EB;
     font-size: 18px;
 }
