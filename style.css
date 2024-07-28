@@ -24,6 +24,11 @@ body {
     font-size: 18px;
 }
 
+.hero-img {
+    width: 400px;
+    height: 200px;
+}
+
 .quote {
     background-color: #E5E7EB;
     padding: 48px 144px;
