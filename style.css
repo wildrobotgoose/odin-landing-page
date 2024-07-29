@@ -139,4 +139,7 @@ button.signup {
     background-color: #3882F6;
     color: white;
     font-size: 18px;
+    width: 120px;
+    height: 36px;
+    border-radius: 10px;
 }
