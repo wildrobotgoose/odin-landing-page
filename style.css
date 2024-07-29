@@ -149,6 +149,7 @@ button.signup {
 
 .hero button.signup {
     border: 0;
+    margin-top: 12px;
 }
 
 .action button.signup {
