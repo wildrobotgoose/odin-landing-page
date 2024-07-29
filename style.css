@@ -143,3 +143,11 @@ button.signup {
     height: 36px;
     border-radius: 10px;
 }
+
+.hero button.signup {
+    border: 0;
+}
+
+.action button.signup {
+    border: 2px solid white;
+}
