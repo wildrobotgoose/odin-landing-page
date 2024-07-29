@@ -87,6 +87,7 @@ body {
     width: 150px;
     height: 150px;
     border: #3882F6 solid 2px;
+    border-radius: 10px;
 }
 
 .info-img-block {
